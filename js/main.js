@@ -92,7 +92,7 @@ var main = {
 		// if I want to do something once the image is ready: `prefetchImg.onload = function(){}`
 
   		setTimeout(function(){
-                  var img = $("<div></div>").addClass("big-img-transition").css("background-image", 'url(' + src + ')');
+                  var img = $("<div></div>").addClass("big-img-transition").css("background-image", 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(' + src + ')');
   		  $(".intro-header.big-img").prepend(img);
   		  setTimeout(function(){ img.css("opacity", "1"); }, 50);
 
