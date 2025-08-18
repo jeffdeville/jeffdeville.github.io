@@ -1,8 +1,14 @@
-FROM jekyll/jekyll
+FROM jekyll/jekyll:4.4.1
 
-COPY Gemfile .
-COPY Gemfile.lock .
+WORKDIR /srv/jekyll
 
-RUN bundle install --quiet --clean
+# Copy project files
+COPY . .
 
-CMD ["jekyll", "serve"]
+# Install gems
+RUN bundle install --quiet
+
+EXPOSE 4000
+
+# Use bundle exec to ensure correct gem versions; bind to all interfaces for container use
+CMD ["bundle", "exec", "jekyll", "serve", "--livereload", "--host", "0.0.0.0"]

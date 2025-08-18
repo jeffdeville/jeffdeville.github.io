@@ -139,8 +139,12 @@ title-separator: "-"
 timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
+theme: jekyll-theme-chirpy
+layouts_dir: _local_layouts
+includes_dir: _local_includes
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/page/:num/"
 
 kramdown:
   input: GFM
@@ -168,13 +172,14 @@ link-tags: true
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
-  - CNAME
   - Dockerfile
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
   - Vagrantfile
+  - feed.xml
+  - 404.html
 
 # prose.io config
 prose:
@@ -229,8 +234,22 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 plugins:
-  - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-include-cache
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: page
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
