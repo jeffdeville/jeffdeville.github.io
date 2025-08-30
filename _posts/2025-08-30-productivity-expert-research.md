@@ -1,6 +1,6 @@
 ---
 title: Productivity Expert Research: Citations for Hierarchical Goal Systems
-tags: code bash
+tags: productivity
 ---
 ## Benjamin Hardy: Future Self and Identity-Based Goal Setting
 
