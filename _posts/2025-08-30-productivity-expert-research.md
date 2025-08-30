@@ -4,13 +4,20 @@ tags: productivity
 ---
 ## Benjamin Hardy: Future Self and Identity-Based Goal Setting
 
+<div style="float:right; margin:0 0 1rem 1rem; max-width:160px;">
+  <a href="https://www.amazon.com/Your-Future-Self-Now-Strategies/dp/1401967575" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/1401967575-L.jpg" alt="Be Your Future Self Now (Benjamin Hardy) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+  </a>
+  <div style="font-size:0.85em; text-align:center; margin-top:0.25rem;">Be Your Future Self Now (2022)</div>
+</div>
+
 Benjamin Hardy's work centers on the revolutionary concept that **"It's not the past that drives us, but rather, it is the future that pulls us."** His framework challenges traditional psychology by positioning the future self as fundamentally different from the current self.
 
 ### Core Frameworks and Quotes
 
 **Future Self Framework:**
 > "Your Future Self will not be the same person you are today. They will see the world differently. They'll have had experiences, challenges, and growth you currently don't have."
-*Source: Be Your Future Self Now (2022)*
+*Source: [Be Your Future Self Now (2022)](https://www.amazon.com/Your-Future-Self-Now-Strategies/dp/1401967575)*
 
 **Seven-Step Process for Future Self Connection:**
 1. **Clarify Contextual Purpose** - Identify what's most important in your current context
@@ -28,12 +35,19 @@ Hardy's approach integrates teleological philosophy, arguing that **"all human a
 
 ## James Clear: Atomic Habits and Systems Philosophy
 
+<div style="float:right; margin:0 0 1rem 1rem; max-width:160px;">
+  <a href="https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/0735211299-L.jpg" alt="Atomic Habits (James Clear) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+  </a>
+  <div style="font-size:0.85em; text-align:center; margin-top:0.25rem;">Atomic Habits (2018)</div>
+</div>
+
 Clear's methodology revolutionizes goal achievement through his fundamental principle: **"You do not rise to the level of your goals. You fall to the level of your systems."**
 
 ### Systems vs Goals Framework
 
 > "Goals are about the results you want to achieve. Systems are about the processes that lead to those results... The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game."
-*Source: Atomic Habits, page 27*
+*Source: [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299), page 27*
 
 ### Identity-Based Habits Model
 
@@ -43,7 +57,7 @@ Clear's three-layer behavior change model provides a hierarchical structure:
 3. **Identity** - What you believe
 
 > "Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity."
-*Source: Atomic Habits, page 38*
+*Source: [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299), page 38*
 
 ### The Four Laws of Behavior Change
 1. **Make it obvious** (Cue)
@@ -56,6 +70,13 @@ Clear's three-layer behavior change model provides a hierarchical structure:
 Clear's research shows that **habits are the compound interest of self-improvement**, with 1% daily improvements resulting in 37x better results over one year.
 
 ## Jocko Willink: Discipline and Extreme Ownership
+
+<div style="float:right; margin:0 0 1rem 1rem; max-width:160px;">
+  <a href="https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/1250067057-L.jpg" alt="Extreme Ownership (Jocko Willink, Leif Babin) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+  </a>
+  <div style="font-size:0.85em; text-align:center; margin-top:0.25rem;">Extreme Ownership (2015)</div>
+</div>
 
 Willink's philosophy centers on the paradox that **"Discipline equals freedom."** His frameworks translate military leadership principles into personal productivity systems.
 
@@ -79,9 +100,16 @@ Willink's philosophy centers on the paradox that **"Discipline equals freedom."*
 
 **Extreme Ownership Principle:**
 > "The leader must own everything in his or her world. There is no one else to blame."
-*Source: Extreme Ownership*
+*Source: [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)*
 
 ## Gary Keller: The ONE Thing Methodology
+
+<div style="float:right; margin:0 0 1rem 1rem; max-width:160px;">
+  <a href="https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/1885167776-L.jpg" alt="The ONE Thing (Gary Keller, Jay Papasan) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+  </a>
+  <div style="font-size:0.85em; text-align:center; margin-top:0.25rem;">The ONE Thing (2013)</div>
+</div>
 
 Keller's framework provides the most explicit hierarchical goal-setting system through his **Focusing Question** and **Goal-Setting to the NOW** process.
 
@@ -100,7 +128,7 @@ Keller's cascading structure connects vision to action:
 
 **Time-Blocking Methodology:**
 > "My recommendation is to block four hours a day. This isn't a typo. I repeat: four hours a day. Honestly, that's the minimum."
-*Source: The ONE Thing, page 165*
+*Source: [The ONE Thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776), page 165*
 
 ### The Domino Effect
 
@@ -109,6 +137,13 @@ Keller's cascading structure connects vision to action:
 A domino can knock over another domino 50% larger - starting with a 2-inch domino, by the 31st domino you'd knock over something taller than Mount Everest.
 
 ## Hal Elrod: The Miracle Morning
+
+<div style="float:right; margin:0 0 1rem 1rem; max-width:160px;">
+  <a href="https://www.amazon.com/Miracle-Morning-Not-So-Obvious-Guaranteed-Transform/dp/0979019710" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/0979019710-L.jpg" alt="The Miracle Morning (Hal Elrod) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+  </a>
+  <div style="font-size:0.85em; text-align:center; margin-top:0.25rem;">The Miracle Morning (2012)</div>
+</div>
 
 Elrod's **SAVERS framework** creates a comprehensive morning routine system that compounds daily practices into life transformation.
 
@@ -122,7 +157,7 @@ Elrod's **SAVERS framework** creates a comprehensive morning routine system that
 
 **Core Philosophy:**
 > "Your level of success will rarely exceed your level of personal development."
-*Source: The Miracle Morning*
+*Source: [The Miracle Morning](https://www.amazon.com/Miracle-Morning-Not-So-Obvious-Guaranteed-Transform/dp/0979019710)*
 
 ### 30-Day Transformation Structure
 - **Days 1-10**: "Unbearable" phase requiring survival mindset
@@ -135,6 +170,12 @@ Elrod's **SAVERS framework** creates a comprehensive morning routine system that
 ## Additional Hierarchical Goal-Setting Experts
 
 ### David Allen - Getting Things Done
+
+<div style="float:right; margin:0 0 0.5rem 1rem; max-width:120px;">
+  <a href="https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/0143126563-L.jpg" alt="Getting Things Done (David Allen) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.15);" />
+  </a>
+</div>
 **Horizons of Focus Model** (6 altitude levels):
 - Ground: Calendar/Actions
 - Horizon 1: Projects
@@ -146,12 +187,24 @@ Elrod's **SAVERS framework** creates a comprehensive morning routine system that
 > "Your priorities are determined from the top down—your purpose and values will drive your vision."
 
 ### Stephen Covey - Weekly Planning
+
+<div style="float:right; margin:0 0 0.5rem 1rem; max-width:120px;">
+  <a href="https://www.amazon.com/First-Things-First-Stephen-Covey/dp/0684802031" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/0684802031-L.jpg" alt="First Things First (Stephen R. Covey) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.15);" />
+  </a>
+</div>
 **Roles and Goals Framework:**
 > "The key is not to prioritize what's on your schedule, but to schedule your priorities."
 
 Focus on **Quadrant II** activities (Important but Not Urgent) for maximum leverage.
 
 ### Michael Hyatt - Full Focus Planner
+
+<div style="float:right; margin:0 0 0.5rem 1rem; max-width:120px;">
+  <a href="https://www.amazon.com/Free-Focus-Productivity-Disciplined-Distraction/dp/0801075261" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/0801075261-L.jpg" alt="Free to Focus (Michael Hyatt) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.15);" />
+  </a>
+</div>
 **Cascading Big 3 System:**
 - Annual Goals (8 maximum) → Quarterly Big 3 → Weekly Big 3 → Daily Big 3
 
@@ -162,14 +215,32 @@ Focus on **Quadrant II** activities (Important but Not Urgent) for maximum lever
 > "RPM is a system of thinking, not a time management system. The goal in life is not to manage time, but creating a life that is absolutely fulfilling."
 
 ### Cal Newport - Deep Work
+
+<div style="float:right; margin:0 0 0.5rem 1rem; max-width:120px;">
+  <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/1455586692-L.jpg" alt="Deep Work (Cal Newport) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.15);" />
+  </a>
+</div>
 **Time-Blocking Method:**
 > "Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit."
 
 ### Brendon Burchard - High Performance Habits
+
+<div style="float:right; margin:0 0 0.5rem 1rem; max-width:120px;">
+  <a href="https://www.amazon.com/High-Performance-Habits-Extraordinary-People/dp/1401952852" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/1401952852-L.jpg" alt="High Performance Habits (Brendon Burchard) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.15);" />
+  </a>
+</div>
 **Five Major Moves Framework:**
 > "Decide what you want. Determine the Five Major Moves that will help you leap toward that goal. Do deep work on each of the major five moves—at least 60 percent of your workweek."
 
 ### Gretchen Rubin - Four Tendencies
+
+<div style="float:right; margin:0 0 0.5rem 1rem; max-width:120px;">
+  <a href="https://www.amazon.com/Four-Tendencies-Indispensable-Personality-Profiles/dp/1524760919" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/1524760919-L.jpg" alt="The Four Tendencies (Gretchen Rubin) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.15);" />
+  </a>
+</div>
 Accountability framework based on response to expectations:
 - **Upholders**: Meet inner and outer expectations
 - **Questioners**: Meet expectations that make sense
@@ -179,6 +250,12 @@ Accountability framework based on response to expectations:
 > "Understanding your Tendency can help you set up situations in ways that make it more likely that you'll achieve your aims."
 
 ### Angela Duckworth - Grit
+
+<div style="float:right; margin:0 0 0.5rem 1rem; max-width:120px;">
+  <a href="https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/1501111116-L.jpg" alt="Grit (Angela Duckworth) cover" style="width:100%; height:auto; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.15);" />
+  </a>
+</div>
 **Hierarchical Goal Structure:**
 > "Grit is about having what some researchers call an 'ultimate concern'—a goal you care about so much that it organizes and gives meaning to almost everything you do."
 
@@ -252,22 +329,22 @@ AI-assisted journaling can bridge these gaps by providing intelligent, adaptive,
 ## Complete Citation List
 
 **Books:**
-- Allen, David. *Getting Things Done: The Art of Stress-Free Productivity*. Penguin Books, 2015.
-- Burchard, Brendon. *High Performance Habits*. Hay House, 2017.
-- Clear, James. *Atomic Habits*. Avery, 2018.
-- Covey, Stephen R. *First Things First*. Free Press, 1996.
-- Duckworth, Angela. *Grit: The Power of Passion and Perseverance*. Scribner, 2016.
-- Elrod, Hal. *The Miracle Morning*. Hal Elrod International, 2012.
-- Hardy, Benjamin. *Be Your Future Self Now*. Hay House, 2022.
-- Hardy, Benjamin. *Personality Isn't Permanent*. Portfolio, 2020.
-- Hyatt, Michael. *Free to Focus*. Baker Books, 2019.
-- Keller, Gary with Papasan, Jay. *The ONE Thing*. Bard Press, 2013.
-- Newport, Cal. *Deep Work*. Grand Central Publishing, 2016.
+- Allen, David. [*Getting Things Done: The Art of Stress-Free Productivity*](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563). Penguin Books, 2015.
+- Burchard, Brendon. [*High Performance Habits*](https://www.amazon.com/High-Performance-Habits-Extraordinary-People/dp/1401952852). Hay House, 2017.
+- Clear, James. [*Atomic Habits*](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299). Avery, 2018.
+- Covey, Stephen R. [*First Things First*](https://www.amazon.com/First-Things-First-Stephen-Covey/dp/0684802031). Free Press, 1996.
+- Duckworth, Angela. [*Grit: The Power of Passion and Perseverance*](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116). Scribner, 2016.
+- Elrod, Hal. [*The Miracle Morning*](https://www.amazon.com/Miracle-Morning-Not-So-Obvious-Guaranteed-Transform/dp/0979019710). Hal Elrod International, 2012.
+- Hardy, Benjamin. [*Be Your Future Self Now*](https://www.amazon.com/Your-Future-Self-Now-Strategies/dp/1401967575). Hay House, 2022.
+- Hardy, Benjamin. [*Personality Isn't Permanent*](https://www.amazon.com/Personality-Isnt-Permanent-Self-Limiting-Beliefs/dp/0593083318). Portfolio, 2020.
+- Hyatt, Michael. [*Free to Focus*](https://www.amazon.com/Free-Focus-Productivity-Disciplined-Distraction/dp/0801075261). Baker Books, 2019.
+- Keller, Gary with Papasan, Jay. [*The ONE Thing*](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776). Bard Press, 2013.
+- Newport, Cal. [*Deep Work*](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692). Grand Central Publishing, 2016.
 - Robbins, Tony. *Time of Your Life*. Robbins Research International, 2007.
-- Rubin, Gretchen. *The Four Tendencies*. Harmony Books, 2017.
-- Tracy, Brian. *Goals!*. Berrett-Koehler Publishers, 2003.
-- Willink, Jocko and Babin, Leif. *Extreme Ownership*. St. Martin's Press, 2015.
-- Willink, Jocko. *Discipline Equals Freedom Field Manual*. St. Martin's Press, 2017.
+- Rubin, Gretchen. [*The Four Tendencies*](https://www.amazon.com/Four-Tendencies-Indispensable-Personality-Profiles/dp/1524760919). Harmony Books, 2017.
+- Tracy, Brian. [*Goals!*](https://www.amazon.com/Goals-Refuse-Settling-Top/dp/1576753078). Berrett-Koehler Publishers, 2003.
+- Willink, Jocko and Babin, Leif. [*Extreme Ownership*](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057). St. Martin's Press, 2015.
+- Willink, Jocko. [*Discipline Equals Freedom Field Manual*](https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947). St. Martin's Press, 2017.
 
 **Academic Sources:**
 - Epton, T., et al. (2017). "Unique effects of setting goals on behavior change." *Journal of Consulting and Clinical Psychology*, 85(12), 1182-1198.
